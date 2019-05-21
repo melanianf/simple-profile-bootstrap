@@ -1,0 +1,16 @@
+.jumbotron {
+	padding-left: 110px;
+	background: #7FFFD4;
+}
+.jumbotron img {
+	width: 100px;
+	height: 100px;
+	border: 2px solid #666;
+}
+.about hr{
+	border-top: 1px solid #999;
+}
+
+body {
+	background: #E0FFFF;
+}
